@@ -1,5 +1,5 @@
 #Plot1. Project 1 of Exploratory Data Analysis course.
-#This script: 1-Reads data from file and  2-Creates ans sabes plot1 graphs
+#This script: 1-Reads data from file and  2-Creates ans saves plot1 graph.
 
 #############################################################################
 ## 1 - Reads household_power_consumption table, creates a POSIX date-time
